@@ -96,7 +96,7 @@ var mymap = L.map('map', {
     id: 'mapbox/streets-v11',
     tileSize: 512,
     zoomOffset: -1,
-    accessToken: 'pk.eyJ1IjoibmljY28xMCIsImEiOiJja3Z3bHE0azQwOWp6MnBsYzRkNGVtZnY3In0.2q6gnypL02uH5WNFbCxRnA'
+    accessToken: 'Your Token'
 }).addTo(mymap);
 
 var ticketIcon = L.icon({
